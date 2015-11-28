@@ -2,7 +2,7 @@
 Summary:	Platform-independent module for I/O completion events
 Name:		python-%{module}
 Version:	0.1
-Release:	1
+Release:	2
 License:	LGPL v3
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/i/iowait/iowait-%{version}.tar.gz
