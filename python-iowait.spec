@@ -9,7 +9,7 @@ Source0:	https://pypi.python.org/packages/source/i/iowait/iowait-%{version}.tar.
 # Source0-md5:	f928f3c54cfa2c054e889abe936cd775
 URL:		https://launchpad.net/python-iowait
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-modules
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
