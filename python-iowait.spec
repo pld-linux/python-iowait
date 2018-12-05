@@ -1,12 +1,12 @@
 %define 	module	iowait
 Summary:	Platform-independent module for I/O completion events
 Name:		python-%{module}
-Version:	0.1
-Release:	2
+Version:	0.2
+Release:	1
 License:	LGPL v3
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/i/iowait/iowait-%{version}.tar.gz
-# Source0-md5:	f928f3c54cfa2c054e889abe936cd775
+# Source0-md5:	f49ca7766fe4a67e03a731e575614f87
 URL:		https://launchpad.net/python-iowait
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.710
